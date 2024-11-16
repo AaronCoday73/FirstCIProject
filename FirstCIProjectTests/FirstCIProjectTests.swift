@@ -12,6 +12,9 @@ final class FirstCIProjectTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
+        
+        // Some new notes - testing my first commit and push to GH
+        
     }
 
     override func tearDownWithError() throws {
